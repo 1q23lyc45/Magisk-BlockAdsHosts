@@ -1,0 +1,6 @@
+id=blockads_hosts
+name=Magisk-BlockAdsHosts
+version=stub
+versionCode=1
+author=1q23lyc45
+description=A Magisk module utilizing a hosts file to block ads.

@@ -1,6 +1,6 @@
 id=blockads_hosts
 name=Magisk-BlockAdsHosts
-version=2024-11-19
-versionCode=241119
+version=2024-12-01
+versionCode=241201
 author=1q23lyc45
 description=A Magisk module utilizing a hosts file to block ads.
